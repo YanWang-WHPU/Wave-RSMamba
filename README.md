@@ -1,2 +1,2 @@
-# Wave-RSMamba
+# WgANet
 The code will be released after the paper is published.
